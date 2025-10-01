@@ -13,4 +13,4 @@
  - 🎉 
 uchenads-star/uchenads-star is a ✨ special ✨ r🤷‍♂️epository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----
+---let the name of the app be connect-star
